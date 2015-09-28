@@ -5,8 +5,22 @@
     </head>
 
     <body>
+
+    <form action="" method="post">
+        <input type="text" name="first_field" />
+        <br>
+        <br>
+        <input type="text" name="second_field" />
+        <br>
+        <br>
+        <input type="submit" name="submit_btn" value="Сложить" />
+    </form>
+
     <?php
-        echo "Калькулятор";
+        $a = $_POST['first_field'];
+        $b = $_POST['second_field'];
+        $result = $a + $b;
+    echo 'Результат: ' . $result;
     ?>
     </body>
 
