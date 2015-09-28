@@ -5,12 +5,13 @@
     </head>
 
     <body>
+    <p>Калькулятор. Сложите два числа</p>
 
     <form action="" method="post">
-        <input type="text" name="first_field" />
+        <input type="text" name="first_field" placeholder="Введите первое число"/>
         <br>
         <br>
-        <input type="text" name="second_field" />
+        <input type="text" name="second_field" placeholder="Введите второе число"/>
         <br>
         <br>
         <input type="submit" name="submit_btn" value="Сложить" />
