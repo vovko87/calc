@@ -10,8 +10,7 @@
 
     <form action="" method="post">
         <input type="text" name="first_field" placeholder="Введите первое число"/>
-        <br>
-        <br>
+        <p>+</p>
         <input type="text" name="second_field" placeholder="Введите второе число"/>
         <br>
         <br>
