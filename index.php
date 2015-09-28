@@ -1,6 +1,7 @@
 <html>
     <head>
         <meta charset="utf-8">
+        <link rel="shortsut icon" href="images/favicon.png" type="image/png">
         <title>Калькулятор</title>
     </head>
 
