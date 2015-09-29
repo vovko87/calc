@@ -9,9 +9,9 @@
     <p>Калькулятор. Сложите два числа</p>
 
     <form action="" method="post">
-        <input type="text" name="first_field" placeholder="Введите первое число"/>
+        <input type="text" name="first_field" placeholder="Введите первое число" autofocus>
         <p>+</p>
-        <input type="text" name="second_field" placeholder="Введите второе число"/>
+        <input type="text" name="second_field" placeholder="Введите второе число">
         <br>
         <br>
         <input type="submit" name="submit_btn" value="Сложить" />
