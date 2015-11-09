@@ -1,0 +1,34 @@
+.course {
+    font-family: Arial;
+    font-size: large;
+    color: white;
+    position: relative;
+    top: 150px;
+}
+
+.mybody {
+    background: #262626;
+    height: 100%;
+}
+
+.container-fluid {
+    min-height: 100%;
+    height: 100%;
+}
+
+.myheader {
+    height: 200px;
+    background:url(../images/calculator_penny_close-up_money_80276_3840x2160-min.jpg)left center no-repeat;
+    background-size: cover;
+}
+
+.row {
+    margin-left: 0;
+    margin-right: 0;
+}
+
+.content {
+    background: white;
+    min-height: 100%;
+    height: 100%;
+}
